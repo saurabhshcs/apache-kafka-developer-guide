@@ -183,7 +183,6 @@ auto.create.topics.enable=false
 
 <details><summary>Mac</summary>
 <p>
-
 ## List the topics in a cluster
 
 ```
